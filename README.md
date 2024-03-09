@@ -1,3 +1,10 @@
+# Pytorch Classifier - male / female, long sleeves. short sleeves - Experiments
+
+![predictions-2](https://github.com/mekhiya/classifier_pytorch/assets/8952786/cf85a9e6-d50f-465e-9d4c-3915e1cde0d2)
+
+![predictions-1](https://github.com/mekhiya/classifier_pytorch/assets/8952786/d43a23da-90f8-4eec-8eb6-880a605a6a20)
+
+
 # classifier_pytorch
 pytorch classifier - male/female gender . Long sleeves/short sleeves clothing
 
